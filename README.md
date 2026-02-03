@@ -1,7 +1,7 @@
 # About Me
 ### Welcome to my GitHub profile
 
-I'm an experienced developer with over 1 year of expertise in Vue.js and Nuxt.js. I have a strong passion for web development and enjoy creating scalable applications using these frameworks.
+I'm an experienced developer with expertise in Vue.js and Nuxt.js. I have a strong passion for web development and enjoy creating scalable applications using these frameworks.
 
 With a solid foundation in front-end development, I specialize in building interactive and dynamic user interfaces. I have worked on various projects, utilizing the Vue.js ecosystem to deliver efficient solutions. My skills include component-based architecture, state management with Vuex or Pinia, and routing with Vue Router. Familiar with SSR on Nuxt.
 
